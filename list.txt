@@ -1,0 +1,17 @@
+eggs 	cheese 	ham 	milk 	cereal
+tomatoes 	cucumbers 	tuna 	olives 	onions
+spinach 	yogurt 	potatoes 	garlic 	rice
+chicken 	shrimp 	 	steak 	bananas
+apple 	water 	chips 	candy 	chocolate
+corn 	peppers 	bread 	tortillas 	oranges
+celery 	lettuce 	salami 	butter 	oil
+salt   	pepper 	ketchup 	ranch 	mayo
+avocado 	spam 	bacon 	cookies 	crackers
+soda 	croissants 	berries 	creamer 	coffee
+pizza 	pickles 	honey 	granola 	sugar
+twinkies 	salmon 	noodles 	 	juice
+grapes 	pineapple 	broccoli 	carrots 	lemons
+drumsticks 	scallops 	peaches 	detergent 	soap
+beans 	lunchables 	water 	tea 	tofu
+salsa 	salad 	sriracha 	tobasco 	feta
+mozarella 	capers 	mushrooms 	lentils 	peas
